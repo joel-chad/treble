@@ -17,6 +17,7 @@
     "axios": "^1.2.5",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
+    "debug": "^4.3.4",
     "follow-redirects": "^1.15.2",
     "framer-motion": "^8.5.4",
     "lucide-react": "^0.284.0",
